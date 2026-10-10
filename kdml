@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ked063/KdmlScripts/refs/heads/main/MM2-MMV-V2"))()
