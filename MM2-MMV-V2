@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ked063/KdmlScripts/refs/heads/main/mm2_obfuscated.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kdmrich63-arch/script/refs/heads/main/loader.lua"))()
